@@ -108,3 +108,5 @@
                 <button type="submit">Search</button>
             </form>
             <?php include_once "components/student_table.php"; ?>
+
+            <p>Hello</p>
